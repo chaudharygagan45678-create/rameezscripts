@@ -12,7 +12,7 @@ I build **production-ready web apps**, **AI-powered automation workflows**, and 
 
 [![YouTube](https://img.shields.io/badge/YouTube-Rameez_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezscripts)
 [![GitHub](https://img.shields.io/badge/GitHub-rameezscripts-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameezscripts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameezscripts)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923224083545)
 
 </div>
 
@@ -130,7 +130,7 @@ Google Sheets / MySQL / APIs  →  Apps Script / PHP / Python / n8n  →  React 
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezscripts)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameezscripts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameezscripts)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923224083545)
 
 </div>
 
