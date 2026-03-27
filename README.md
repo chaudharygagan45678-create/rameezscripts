@@ -47,7 +47,6 @@ I build **production-ready web apps**, **AI-powered automation workflows**, and 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![DataTables](https://img.shields.io/badge/DataTables-336791?style=for-the-badge&logo=datatables&logoColor=white)
@@ -148,4 +147,4 @@ Google Sheets / MySQL / APIs  →  Apps Script / PHP / Python / n8n  →  React 
 
 </div>
 
-<!-- SEO: Mohammad Rameez Imdad, Rameez Scripts, Google Apps Script developer, PHP MySQL developer, Python developer, Agentic AI, AI automation, n8n workflow automation, React dashboard builder, YouTube coding tutorials, Google Sheets web app, Apps Script CRUD, full-stack developer Pakistan, WhatsApp bot developer, WAHA API, Claude AI developer, workflow automation engineer, admin dashboard template, Navy Blue dashboard, Apps Script tutorial, PHP CRUD application, n8n automation workflows, AI agents, Google Apps Script YouTube, web app developer, agentic AI workflows, Python automation, React DataTables dashboard -->
+<!-- SEO: Mohammad Rameez Imdad, Rameez Scripts, Google Apps Script developer, PHP MySQL developer, Python developer, Agentic AI, AI automation, n8n workflow automation, React dashboard builder, YouTube coding tutorials, Google Sheets web app, Apps Script CRUD, full-stack developer Pakistan, WhatsApp bot developer, WAHA API, workflow automation engineer, admin dashboard template, Navy Blue dashboard, Apps Script tutorial, PHP CRUD application, n8n automation workflows, AI agents, Google Apps Script YouTube, web app developer, agentic AI workflows, Python automation, React DataTables dashboard -->
